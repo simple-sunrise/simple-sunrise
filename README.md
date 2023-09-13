@@ -1,11 +1,17 @@
 ### Hi there 👋
-- 🚀 I'm currently working on something cool. You guess it!
-- 🌱 My main attitude is the continuous improvement
+- ⚡ Fun fact: It is impossible for most people to lick their own elbow. (try it!)
+- 🌱 Jokes apart, my main attitude is the continuous improvement
 - 🤿 My first thought when I start a new activity is "How can I make it better?"
 - ❓ ***Should I stop it and accept things as they are?***
-  
+- 📫 Among my skills you can find:
+<p align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=androidstudio,atom,git,github,bash,linux,kotlin,matlab,py,autocad,ai,ps,latex,md&perline=7" />
+ </a>
+</p
+
 <!--
-**simple-sunrise/simple-sunrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**simple-sunrise/simple-sunrise** is a ✨ _special_ ✨ repository bec,ause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +22,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
