@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🚀 I'm currently working on something cool. You guess it!
+- 🌱 My main attitude is the continuous improvement
+- 🤿 My first thought when I start a new activity is "How can I make it better?"
+- ❓ ***Should I stop it and accept things as they are?***
+  
 <!--
 **simple-sunrise/simple-sunrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
